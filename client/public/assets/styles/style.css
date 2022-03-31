@@ -111,6 +111,7 @@ a:focus {
   0% {
     -webkit-transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
   }
@@ -120,6 +121,7 @@ a:focus {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
@@ -1059,7 +1061,7 @@ a:focus {
 .team-img {
   position: relative;
   width: 100%;
-  padding: 45px 0 15px 0;
+  text-align: center;
 }
 
 .team .team-item {
@@ -1088,10 +1090,10 @@ img {
 
 .team .team-text {
   position: absolute;
-  width: calc(100% - 40px);
+  width: 100%;
   height: 40px;
   bottom: 0;
-  left: -60px;
+  /* left: -60px; */
   padding: 20px;
   text-align: center;
   background: #ffffff;
@@ -2134,10 +2136,17 @@ img {
   color: #fdbe33;
 }
 
-@media (max-width: 767.98px) {
+@media screen and (max-width: 767.98px) {
+
   .footer .copyright p,
   .footer .copyright .col-md-6:last-child p {
     margin: 5px 0;
     text-align: center;
   }
+
+  .team-img {
+    text-align: center;
+    position: relative;
+  }
+
 }
