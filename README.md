@@ -24,27 +24,19 @@ Mobile-first design is built on the fact that users increasingly use their mobil
 
 ## Purpose
 
+User Stories
+
 ```
-<<<<<<< HEAD
-<<<<<<< HEAD
-AS A BENEFACTOR I WANT TO MAKE DONATIONS THAT WILL DIRECTLY GO TO A CHARITY OR ORGANIZATION OF MY CHOICE
-
 AS A CHARITY ORGANIZER I WANT TO BE ABLE TO RAISE AWARENESS FOR A CHARITY/ORGANIZATION BY ALLOWING BENEFACTORS TO CHOOSE THE CHARITY OF THEIR CHOICE
-=======
-As a benefactor, I want to make donations to reputable charities of my choice, so that I can donate to  deserving  causes. 
 
->>>>>>> develop
-=======
 As a benefactor, I want to make donations to reputable charities of my choice, so that I can donate to  deserving  causes.
+AS A BENEFACTOR, I WANT TO MAKE DONATIONS TO REPUTABLE CHARITIES OF MY CHOICE, SO THAT I CAN DONATE TO DESERVING CAUSES
 
->>>>>>> cfb1fd1615674a9e548457980e5993233478e7cc
 ```
 
 ## Deployment
 
-<!-- Update this link -->
-
-A deployed version of this app can be accessed by clicking this [link](http://www.google.ca)
+A deployed version of this app can be accessed by clicking this [link](https://glacial-cliffs-90348.herokuapp.com/)
 
 ## Usage
 
